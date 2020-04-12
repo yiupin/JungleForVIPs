@@ -1,0 +1,98 @@
+
+// MenuView
+
+"Jungle for visually impaired" = "Jungle for visually impaired";
+"local game" = "local game";
+"online game" = "online game";
+"start the game" = "start the game";
+"No Internet connection. Make sure that Wi-Fi or mobile data is turned on that try again" = "No Internet connection. Make sure that Wi-Fi or mobile data is turned on that try again。";
+"help" = "help";
+
+// GameView
+
+"Red" = "Blue";
+"Black" = "Purple";
+
+"Rat" = "Rat";
+"Cat" = "Cat";
+"Dog" = "Dog";
+"Wolf" = "Wolf";
+"Leopard" = "Leopard";
+"Tiger" = "Tiger";
+"Lion" = "Lion";
+"Elephant" = "Elephant";
+
+"Normal" = "Normal";
+"River" = "River";
+"Black's Trap" = "Purple's Trap";
+"Black's Den" = "Purple's Den";
+"Red's Trap" = "Blue's Trap";
+"Red's Den" = "Blue's Den";
+
+"Corner" = "Corner";
+"Edge" = "Edge";
+
+"E" = "E";
+
+"cant move" = "cant move";
+"fail to select, now is" = "fail to select, now is";
+"Red's Turn" = "Blue's Turn";
+"Black's Turn" = "Purple's Turn";
+"please select a piece first" = "please select a piece first";
+"is chosen" = "is chosen";
+
+"can capture" = "can capture";
+"can move" = "can move";
+
+"successful move, we now return to game menu" = "successful move, we now return to game menu";
+"finish game, we now return to game menu" = "finish game, we now return to game menu";
+
+// GameViewController
+
+"Voice Control" = "Voice Control";
+"Game Over" = "Game Over";
+"Black Win" = "Black Win";
+"Red Win" = "Red Win";
+"Play Again" = "Play Again";
+
+"Start Recording" = "Start Recording";
+"has been captured" = "has been captured";
+"'s position is" = "'s position is";
+
+"Sorry, I don't know which piece you are searching for" = "Sorry, I don't know which piece you are searching for";
+"Sorry, I don't know which piece you want to select?" = "Sorry, I don't know which piece you want to select";
+"is already there" = "is already there";
+"Sorry, I don't know which position you want to move" = "Sorry, I don't know which position you want to move";
+"Sorry, I don't understand" = "Sorry, I don't understand";
+
+"return to game menu" = "return to game menu";
+"restart" = "restart";
+"undo" = "undo";
+"hint" = "hint";
+"Will display last move here" = "Will display last move here";
+
+"can move to" = "can move to";
+"can capture" = "can capture";
+"Sorry, it cant move" = "Sorry, it cant move";
+"Sorry, it cant capture any pieces" = "Sorry, it cant capture any pieces";
+"please select piece first" = "please select piece first";
+
+// GameModel
+
+"Move" = "Move";
+"Jump" = "Jump";
+"Swim" = "Swim";
+"Trap" = "Trap";
+
+"Cannot Jump" = "Cannot Jump";
+"is captured" = "is captured";
+
+"undo successfully" = "undo successfully";
+"cant undo" = "cant undo";
+
+// GameCenterHelp
+
+"Would you like to play Jungle?" = "Would you like to play Jungle？";
+// HelpView
+
+"back" = "back";
